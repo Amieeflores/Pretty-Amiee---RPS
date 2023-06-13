@@ -1,1 +1,1 @@
-# Pretty-Amiee---RPS
+# PrettyAmiee-RPS
